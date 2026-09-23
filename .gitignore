@@ -24,7 +24,6 @@ portal-web/src/**/*.js.map
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 *.swp
 *.swo
